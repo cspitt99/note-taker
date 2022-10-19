@@ -15,7 +15,7 @@ An application that helps a worker keep track of notes
   Run npm i to install necessary files
 
 ## Usage
-  Run npm start to start the server
+  Run npm start to start the server or use deployed link: https://note-taker-homework-app.herokuapp.com/
 
 ## License
   This application is licensed under [The MIT License](https://opensource.org/licenses/MIT).
